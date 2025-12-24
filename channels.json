@@ -1,17 +1,18 @@
 [
   {
-    "name": "NASA TV",
-    "logo": "https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo.svg",
-    "url": "https://ntvpublic.akamaized.net/hls/live/2023153/ntvpublic/master.m3u8"
+    "name": "beIN Sports 1",
+    "category": "Sports",
+    "logo": "https://example.com/bein1.png",
+    "url": "https://stream-link.m3u8",
+    "headers": {
+      "User-Agent": "Mozilla/5.0",
+      "Referer": "https://yalla-shoot.com/"
+    }
   },
   {
-    "name": "Test Stream 1",
-    "logo": "https://via.placeholder.com/150/0000FF/808080?text=Channel+1",
-    "url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
-  },
-  {
-    "name": "Test Stream 2",
-    "logo": "https://via.placeholder.com/150/FF0000/FFFFFF?text=Channel+2",
-    "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8"
+    "name": "MBC 1",
+    "category": "Entertainment",
+    "logo": "https://example.com/mbc1.png",
+    "url": "https://stream-link-2.m3u8"
   }
 ]
