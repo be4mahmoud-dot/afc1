@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "Live Test Channel 1",
+    "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+    "logo": "https://raw.githubusercontent.com/clappr/clappr/master/dist/img/play.png",
+    "category": "Sports"
+  },
+  {
+    "id": "2",
+    "name": "Big Buck Bunny (HLS)",
+    "stream_url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Big_Buck_Bunny_Trailer_400p.png",
+    "category": "Movies"
+  },
+  {
+    "id": "3",
+    "name": "Sample MP4 Stream",
+    "stream_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "logo": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg",
+    "category": "Documentary"
+  },
+  {
+    "id": "4",
+    "name": "Sintel (High Quality)",
+    "stream_url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Sintel_logo.png/800px-Sintel_logo.png",
+    "category": "Animation"
+  }
+]
