@@ -3,7 +3,7 @@
     "name": "beIN Sports 1",
     "category": "Sports",
     "logo": "https://example.com/bein1.png",
-    "url": "https://stream-link.m3u8",
+    "url": "https://aps13.playlist.ttvnw.net/v1/playlist/CscE3lJ_u9C3yTG0_GGmMD0j51e0iYdCZyxxiAc4GyCWrlmPjQ5St6AFOA-RzKfULVYRsZboHulGgjpfU1L0gdUVCtSASanCNQlWK67-cOm-Tq7ysjmnQlIyxgxFVUYYVYT3qO5KIBaF7iTBT3yDNsRNuJOwdqb0O5z7jm92eqjHSPbXffxoPsX5dTtvYD5zCgqEm6JxvLBjTD2sVtfQUHoCukL73SABAwGiVrh-RCi1MS3IXALlNWtGDm5NRzLc6mShe5lisqm-eTW8JG9S1WTBKItGzrY8LOgahiIVGjuRm0_JNllXv7EE73G-fQ63Z3uEoayqqNYaoxGmpsYxlDTV1-Tb3JvI2Yqh5VbM8cmgK4fv5a7VNmUf0yWtDEw5f3X8uSDdEdSMWBp3Hbko2fXYNuE6Mt3D3uheT8lMuOlu76E4BzfGOWqM51jCTE12PWpMghXKzNe_aLh2zL9YGMcNCkuL-NfXEri3AKky3ePsPOVQIImakjnX9XW-TULFr3lrkjylQfLaenjRnqE3gbIDGvkqMGC8WtFwH5ftVVl1wYB7gyzzRftSjNzJ3nQTDzfxbV0kkWKw0gaXMWhZcvWZbCPl0GJRVzdFAM8E4QnkO047Q6vwPAwxTIVqNLJ5YrWuB2uKldOObkIujAGzVuF2AwOOjUKAlznnlqA5XhKm8J22Zx0rZ27-tuI16QKDApwvTOOXjX0Fu_MgPei0xG0GfvUK6mz8UYmysimga6mWuoYn4AveSJ58myJ7qjzla26u7Dj601xqJRoMFCTMOu7PlWtbSAyLIAEqCXVzLXdlc3QtMjCCDg.m3u8",
     "headers": {
       "User-Agent": "Mozilla/5.0",
       "Referer": "https://yalla-shoot.com/"
